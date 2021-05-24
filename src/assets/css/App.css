@@ -1,0 +1,21 @@
+ .App {
+  text-align: center;
+}
+
+.container { 
+  margin-top:190px;
+  background-color:#E67300;
+  color: aliceblue;
+}
+.footer{
+  
+  height: 190px;
+  background-color: #262626;
+}
+h1{
+  color:white;
+  text-align: center;
+  padding-top: 90px;
+
+}
+
